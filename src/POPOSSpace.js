@@ -1,9 +1,9 @@
-import React from 'react'
+
 import './POPOSSpace.css'
 
 function POPOSSpace(props) {
 
-  const { name, image, address } = props
+   const { name, image, address, hours } = props
   return (
     <div className="POPOSSpace">
       <h1>{name}</h1>

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amebrady/sfpopos.git/static/css/main.203d4f00.css",
+    "main.js": "/amebrady/sfpopos.git/static/js/main.3028ccf7.js",
+    "static/js/787.9ad95fba.chunk.js": "/amebrady/sfpopos.git/static/js/787.9ad95fba.chunk.js",
+    "index.html": "/amebrady/sfpopos.git/index.html",
+    "main.203d4f00.css.map": "/amebrady/sfpopos.git/static/css/main.203d4f00.css.map",
+    "main.3028ccf7.js.map": "/amebrady/sfpopos.git/static/js/main.3028ccf7.js.map",
+    "787.9ad95fba.chunk.js.map": "/amebrady/sfpopos.git/static/js/787.9ad95fba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203d4f00.css",
+    "static/js/main.3028ccf7.js"
+  ]
+}
